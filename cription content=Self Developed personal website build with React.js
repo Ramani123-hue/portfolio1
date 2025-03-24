@@ -1,0 +1,24 @@
+[33mcommit b0a9feca5e946c6666b0c43ed059fe7e2f3e620c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mramani[m[33m, [m[1;31morigin/ramani[m[33m)[m
+Author: Ramani123-hue <ramani.j.ihub@snsgroups.com>
+Date:   Mon Mar 24 11:46:56 2025 +0530
+
+    Updated index.html
+
+[1mdiff --git a/public/index.html b/public/index.html[m
+[1mindex 9a1d8bd..3195883 100644[m
+[1m--- a/public/index.html[m
+[1m+++ b/public/index.html[m
+[36m@@ -8,11 +8,11 @@[m
+   <meta name="theme-color" content="#000000" />[m
+   <meta name="description" content="Web site created using create-react-app" />[m
+   <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />[m
+[31m-  <title>S0umyajit | Portfolio</title>[m
+[32m+[m[32m  <title>Ramani| Portfolio</title>[m
+   <meta name="description" content="Self Developed personal website build with React.js">[m
+ [m
+   <!-- Google / Search Engine Tags -->[m
+[31m-  <meta itemprop="name" content="S0umyajit | Portfolio">[m
+[32m+[m[32m  <meta itemprop="name" content="Ramani | Portfolio">[m
+   <meta itemprop="description" content="Self Developed personal website build with React.js">[m
+   <meta itemprop="image"[m
+     content="https://raw.githubusercontent.com/soumyajit4419/Portfolio/master/Images/readme-img.png?token=AK7VCIF5RYEUZZAURELPTAC76U6AK">[m
